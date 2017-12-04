@@ -2,6 +2,6 @@
 
 This is my camera effects project.
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Jennifer Patricio](https://github.com/jenpatricio/jenpatricio.github.io/blob/master/Jennifer%20Patricio.PNG?raw=true "Optional Title")
 
 ***
